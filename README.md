@@ -6,8 +6,7 @@ It serves as a central hub to connect with me and view my work in web developmen
 
 ## 🚀 Live Demo
 
-<!-- Replace the link below with your actual Vercel/GitHub Pages link if available -->
-[**View Live Portfolio**](#)
+my-portfolio-h6yokolla-vanessas-projects-12765840.vercel.app
 
 ## 🛠️ Technologies Used
 
