@@ -44,7 +44,7 @@ My_Portfolio/
 
 ## 👩‍🎓 About Me
 
-I am **Vanessa Teles**, a passionate software developer student at **ATEC** (Tecnologias de Programação e Sistemas de Informação). I focus on building functional digital experiences and am constantly learning new technologies like React, C#, Java and others.
+I am **Vanessa Teles**, a passionate software developer student at **ATEC** (Technical Specialist course in Information Systems Technologies and Programming). I focus on building functional digital experiences and am constantly learning new technologies like React, C#, Java and others.
 
 ## 📬 Contact
 
