@@ -1,6 +1,6 @@
 # 👩‍💻 Vanessa Teles | Developer Portfolio
 
-Welcome to my personal portfolio repository! This website was designed and developed to showcase my journey as a Software Engineering student, my projects, and my technical skills.
+Welcome to my personal portfolio repository! This website was designed and developed to showcase my journey as a Software development student, my projects, and my technical skills.
 
 It serves as a central hub to connect with me and view my work in web development and design.
 
@@ -44,7 +44,7 @@ My_Portfolio/
 
 ## 👩‍🎓 About Me
 
-I am **Vanessa Teles**, a passionate software developer student at **ATEC** (Tecnologias de Programação e Sistemas de Informação). I focus on building functional digital experiences and am constantly learning new technologies like React, C#, and Java.
+I am **Vanessa Teles**, a passionate software developer student at **ATEC** (Tecnologias de Programação e Sistemas de Informação). I focus on building functional digital experiences and am constantly learning new technologies like React, C#, Java and others.
 
 ## 📬 Contact
 
@@ -52,7 +52,6 @@ Feel free to reach out to me!
 
 *   **LinkedIn**: Vanessa Teles
 *   **GitHub**: @vanessapcteles
-*   **Email**: vteles@live.com.pt
 
 ---
 
