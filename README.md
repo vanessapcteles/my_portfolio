@@ -6,7 +6,7 @@ It serves as a central hub to connect with me and view my work in web developmen
 
 ## 🚀 Live Demo
 
-my-portfolio-h6yokolla-vanessas-projects-12765840.vercel.app
+[**View Live Portfolio**](my-portfolio-h6yokolla-vanessas-projects-12765840.vercel.app)
 
 ## 🛠️ Technologies Used
 
